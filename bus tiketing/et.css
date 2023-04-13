@@ -1,0 +1,58 @@
+.head{
+    color: aliceblue;
+    text-align: center;
+background-color: limegreen;
+
+}
+li{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+   padding: 20px;
+   padding-right: 15px;
+}
+.nav{
+    text-align: center;
+    background-color: cyan;
+    font-weight: bold;
+}
+footer{
+    bottom: 0px;
+    width: 100%;
+    position: absolute;
+    background-color: darkviolet;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: small;
+    font-weight: bold;
+}
+.on{
+    text-align: center;
+    border: 2px solid;
+    color: azure;
+    background-color: cornflowerblue;
+}
+.ser{
+    text-align: center;
+background-image: url(0012.jpg);
+background-size: cover;
+color: azure;
+}
+.bo{
+    background-image: url(016.jpg);
+    background-size: cover;
+}
+.pre{
+    text-align: center;
+    background-image: url(ee.jpg);
+    background-size: cover;
+    font-size: xx-large;
+    color: white;
+}
+.bb{
+text-align: center;
+background-image: url(ee.jpg);
+background-size: cover;
+color: red;
+font-size: xx-large;
+}
